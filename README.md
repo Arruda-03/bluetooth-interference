@@ -1,3 +1,5 @@
 This repository has been created solely for academic studies.
 
-For run this program, you need install the pybluez library.
+This is designed to scan and interfere with bluetooth conections.
+
+Before running this program, you need to install the pybluez library.
